@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Tecnoblog" title="Tecnoblog" src=".github/logo.png" />
+    TecnoBlog
 </h1>
 
 ## 🚀 Objetivo
